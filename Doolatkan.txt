@@ -1,2 +1,3 @@
 Hello Bayram Thank you for adding this repo. I dont understand how do it\
 //some code
+// proper less code is more powerfull than more code which is not usefull
